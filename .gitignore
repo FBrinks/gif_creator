@@ -1,4 +1,12 @@
 /.venv
 /image-gif-creator/src/__pycache__
 
+.DS_Store
+*.pyc
+*.pyo
+*.pyd
+__pycache__
+*.pkl
+*.db       
+
 
